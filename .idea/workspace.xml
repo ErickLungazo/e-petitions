@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2eb34a7e-6a85-4eb1-a6fc-5cd930ce3b4e" name="Changes" comment="unversioned files sent" />
+    <list default="true" id="2eb34a7e-6a85-4eb1-a6fc-5cd930ce3b4e" name="Changes" comment="added dotenv package">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/drizzle.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/drizzle.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +108,7 @@
       <workItem from="1745410699307" duration="14060000" />
       <workItem from="1745573320090" duration="23424000" />
       <workItem from="1745647943140" duration="7656000" />
-      <workItem from="1745656849177" duration="19179000" />
+      <workItem from="1745656849177" duration="20146000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -131,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745680008587</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added dotenv package">
+      <option name="closed" value="true" />
+      <created>1745680519127</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745680519127</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +152,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="disabled build errors" />
     <MESSAGE value="unversioned files sent" />
-    <option name="LAST_COMMIT_MESSAGE" value="unversioned files sent" />
+    <MESSAGE value="added dotenv package" />
+    <option name="LAST_COMMIT_MESSAGE" value="added dotenv package" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
